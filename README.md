@@ -5,6 +5,9 @@ Automatic Steam Comment bot example for [rep4rep](https://rep4rep.com/).
 Using the [rep4rep](https://rep4rep.com/) public API.
 
 
+## Updated
+Automatically logs into all accounts without the need of typing in all usernames and passwords each time.
+
 ## Steam Comment bot setup
 
 1. clone the repository
